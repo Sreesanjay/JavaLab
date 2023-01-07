@@ -3,7 +3,6 @@ import java.lang.Math;
 class isArmstrong
 {
 	boolean checkArmstrong(int num) {
-		//System.out.println(num+"received");
 		int temp,count=0;
 	    int digit,sum=0;
 		
