@@ -21,7 +21,7 @@ class isArmstrong
 		{
 			digit=temp%10;
 			
-		    sum+=(Math.pow(sum,digit));
+		    sum+=(Math.pow(digit,count));
 			temp=temp/10;
 			
 			
